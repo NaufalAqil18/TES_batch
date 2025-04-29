@@ -22,7 +22,7 @@ Project ini merupakan implementasi sederhana dari Django dengan tujuan edukatif.
 
 Berikut tampilan dari halaman-halaman yang ada:
 
-> ![Homepage Screenshot](./preview/homepage.png)  
+> ![Homepage Screenshot](homepage.png)  
 > *Contoh tampilan homepage — ganti dengan screenshot milikmu sendiri*
 
 ---
